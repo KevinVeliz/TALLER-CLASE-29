@@ -1,0 +1,3 @@
+Elementos no ordenados: 5 2 3 4 8 
+Elementos ordenados: [2][3][4][5][8]
+El algoritmo utilizado es: HEAPSORT 
